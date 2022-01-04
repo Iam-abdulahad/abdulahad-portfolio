@@ -8,7 +8,7 @@ h1{
 .jr{
     color: orange;
 }
-section{
+.flexible-continer{
     display: flex;
     padding-bottom: 80px;
 }
